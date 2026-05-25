@@ -1,0 +1,21 @@
+{
+  "name": "ai-text-intel",
+  "version": "1.0.0",
+  "description": "AI Text Intelligence — analyze text for sentiment, themes, style, and readability using MiMo AI",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "25.9.1",
+    "@types/react": "19.2.15",
+    "typescript": "6.0.3"
+  }
+}
